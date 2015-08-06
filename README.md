@@ -1,6 +1,7 @@
 # Email Signature
 Retire those uncool email signatures, use the template to customize and create your won cool email signature.
-![Cool Email Signature] (https://github.com/taroontyagi/email-signature/blob/master/snapshot.png?raw=true "Cool Email Signature")
+
+![Cool Email Signature](https://github.com/taroontyagi/email-signature/blob/master/snapshot.png?raw=true "Cool Email Signature")
 
 ### How To Use
 - Open the template.html file in your favorite editor
